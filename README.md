@@ -6,6 +6,7 @@ Predict insurence Charges using various Features:
 * Children
 * Smoker
 * Region
+
 Insurance Charges Prediction
 
 Supervised ML Problem
