@@ -5,4 +5,5 @@ Predict insurence Charges using various Features:
 * Gender
 * Children
 * Smoker
-Supervised ML P
+
+Supervised ML Problem
