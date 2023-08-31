@@ -1,0 +1,2 @@
+{"Input_col":["age", "gender", "bmi", "children", "smoker", "region"],
+"Target_col":"charges"}
